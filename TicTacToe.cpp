@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// adding comment
 #define COMPUTER 1
 #define HUMAN 2
 #define SIDE 3
